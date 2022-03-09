@@ -1,7 +1,7 @@
 # Hi I am Franklin 👋🌱👀
 <div>
   <p align="center">
-    <img src="./utils/banner.png"> 
+    <img src="./utils/banner_no_it_icon_solid_background.png"> 
   </p>
 </div>
 I am a software engineer who loves creating robust technology solutions using .
