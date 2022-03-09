@@ -14,4 +14,3 @@ I use the following technologies to build
 - Sharing new trends on [LinkedIn](https://www.linkedin.com/in/franklinngongang/)
 - Creating Content on my [Youtube Channel](https://www.youtube.com/channel/UClLU4FE2edInV3mW6NZm1pw) 
 
-
