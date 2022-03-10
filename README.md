@@ -6,9 +6,7 @@
 </div>
 I am a software engineer who loves creating robust technology solutions using .
 I am proficient with the following technoglies : 
-<img src="https://img.shields.io/badge/opensource-brightgreen" />
-<img src="https://img.shields.io/badge/Javascript-yellowgreen" />
-<img src="https://img.shields.io/badge/Python-yellowblue?logo=python"/>...
+<img src="https://img.shields.io/badge/opensource-brightgreen" /> <img src="https://img.shields.io/badge/Javascript-yellowgreen?logo=Javascript" /><img src="https://img.shields.io/badge/Python-blue?logo=python"/> <img src="https://img.shields.io/badge/Python-blue?logo=python"/><img src="https://img.shields.io/badge/Gitlab-purple?logo=git"/><img src="https://img.shields.io/badge/aws-#FF9900?logo=aws"/>
 and much more...
 
 
