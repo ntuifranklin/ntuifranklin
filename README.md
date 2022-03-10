@@ -1,4 +1,4 @@
-# Hi I am Franklin 👋 😊🙏
+# Hi I am Franklin 👋 | 😊 | 🙏 |🌱 
 <div>
   <p align="center">
     <img src="./utils/banner_no_it_icon_solid_background.png"> 
