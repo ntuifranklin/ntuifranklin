@@ -5,8 +5,7 @@
   </p>
 </div>
 
-I am currently an AI/ML software engineer for <a href='https://www.ers.io/'>Enterprise Refactoring Services</a> who enjoys builidng robust technology solutions using the following chocolate![image](https://user-images.githubusercontent.com/6463400/210446979-352692ef-bc65-44fb-9936-06ef2cd62d41.png)
-  bars:
+I am currently an AI/ML software engineer for <a href='https://www.ers.io/'>Enterprise Refactoring Services</a> who enjoys builidng robust technology solutions using the following chocolate ![image](https://user-images.githubusercontent.com/6463400/210447149-c3b21a67-04b0-40ff-8223-a758d6d3fa40.png) bars:
  <p float="left">
     <img src="https://img.shields.io/badge/sklearn-orange?logo=scikit-learn" />
     <img src="https://img.shields.io/badge/jupyter-orange?logo=jupyter"/>
