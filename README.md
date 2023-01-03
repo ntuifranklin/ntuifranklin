@@ -4,8 +4,11 @@
     <img src="./utils/linked_in_banner.png"> 
   </p>
 </div>
-I am a software engineer who loves creating robust technology solutions using :
+
+I am currently an AI/ML software engineer who loves creating robust technology solutions using :
  <p float="left">
+    <img src="https://img.shields.io/badge/sklearn-orange" />
+    <img src="https://img.shields.io/badge/gdal-bluegreen" />
     <img src="https://img.shields.io/badge/opensource-brightgreen" />
     <img src="https://img.shields.io/badge/Javascript-yellowgreen?logo=Javascript" />
     <img src="https://img.shields.io/badge/Python-blue?logo=python"/> 
