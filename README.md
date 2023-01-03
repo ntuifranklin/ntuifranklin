@@ -7,7 +7,9 @@
 
 I am currently an AI/ML software engineer who loves creating robust technology solutions using :
  <p float="left">
-    <img src="https://img.shields.io/badge/sklearn-orange?logo=sklearn" />
+    <img src="https://img.shields.io/badge/sklearn-orange?logo=scikit-learn" />
+    <img src="https://img.shields.io/badge/jupyter-orange?logo=jupyter"/>
+    <img src="https://img.shields.io/badge/docker-0db7ed?logo=docker"/>
     <img src="https://img.shields.io/badge/gdal-bluegreen" />
     <img src="https://img.shields.io/badge/java-brown?logo=oracle" />
     <img src="https://img.shields.io/badge/opensource-brightgreen" />
