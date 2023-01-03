@@ -9,10 +9,11 @@ I am currently an AI/ML software engineer who loves creating robust technology s
  <p float="left">
     <img src="https://img.shields.io/badge/sklearn-orange" />
     <img src="https://img.shields.io/badge/gdal-bluegreen" />
+    <img src="https://img.shields.io/badge/sklearn-orange" />
+    <img src="https://img.shields.io/badge/java-coffee" />
     <img src="https://img.shields.io/badge/opensource-brightgreen" />
     <img src="https://img.shields.io/badge/Javascript-yellowgreen?logo=Javascript" />
     <img src="https://img.shields.io/badge/Python-blue?logo=python"/> 
-    <img src="https://img.shields.io/badge/Python-blue?logo=python"/>
     <img src="https://img.shields.io/badge/Gitlab-purple?logo=git"/>
     <img src="https://img.shields.io/badge/aws-FF9900?logo=aws"/>
  </p> and much more...
