@@ -23,3 +23,5 @@ I am currently an AI/ML software engineer for <a href='https://www.ers.io/'>Ente
 - Sharing new trends on [LinkedIn](https://www.linkedin.com/in/franklinngongang/)
 - Creating Content on my [Youtube Channel](https://www.youtube.com/channel/UClLU4FE2edInV3mW6NZm1pw) 
 
+## Currently AI/ML Software Engineer @Enterprise_Refactoring_Services_LLC  (www.ers.io).
+Previously Software Engineer @DIT University of Maryland. Book lover and 
