@@ -25,4 +25,4 @@ I am currently an AI/ML software engineer for <a href='https://www.ers.io/'>Ente
 - Writing articles on my [Medium Blog](https://medium.com/@ntuifranklin2005)
 
 ## Currently AI/ML Software Engineer @Enterprise_Refactoring_Services_LLC  (www.ers.io).
-Previously Software Engineer @ERS(Enterprise Refactoring Services). Book lover and author.
+Previously Student Software Engineer @DIT(Department of Information Technology University of Maryland college Park). Book lover and author.
