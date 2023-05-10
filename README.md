@@ -1,8 +1,10 @@
 # Hi I am Franklin 👋 | 😊 | 🙏 |🌱 
 <div>
   <p align="center">
-    <img src="./utils/linked_in_banner.png"> 
+    <!-- <img src="./utils/linked_in_banner.png"> -->
+    ![Minimal Modern Elegant Background Technology Banner](https://github.com/ntuifranklin/ntuifranklin/assets/6463400/4404f757-6c91-4cd1-82c5-7467978f373e)
   </p>
+
 </div>
 
 I am currently an AI/ML software engineer for <a href='https://www.ers.io/'>Enterprise Refactoring Services</a> who enjoys builidng robust technology solutions using the following chocolate 🍫 bars:
