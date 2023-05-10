@@ -1,8 +1,8 @@
 # Hi I am Franklin 👋 | 😊 | 🙏 |🌱 
 <div>
   <p align="center">
-    <!-- <img src="./utils/linked_in_banner.png"> -->
-    ![Minimal Modern Elegant Background Technology Banner](https://github.com/ntuifranklin/ntuifranklin/assets/6463400/4404f757-6c91-4cd1-82c5-7467978f373e)
+    
+    [<img src="./utils/mmebtb.png">](https://github.com/ntuifranklin/ntuifranklin/assets/6463400/4404f757-6c91-4cd1-82c5-7467978f373e)
   </p>
 
 </div>
