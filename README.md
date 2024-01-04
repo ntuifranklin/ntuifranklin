@@ -6,7 +6,8 @@
 
 </div>
 
-I am currently an AI/ML software engineer for <a href='https://www.ers.io/'>Enterprise Refactoring Services</a> who enjoys builidng robust technology solutions using the following chocolate 🍫 bars:
+I am currently a Cybersecurity Software Engineer for <a href='https://lericemautech.com/'>Lericemau Tech LLC</a>. We build cryptographic solutions for our clients using several cutting edge cyber security techniques ad algorithms, to protect and secure very delicate assets.
+Previously I was an AI/ML software engineer for <a href='https://www.ers.io/'>Enterprise Refactoring Services</a> who enjoys builidng robust technology solutions using the following chocolate 🍫 bars:
  <p float="left">
     <img src="https://img.shields.io/badge/sklearn-orange?logo=scikit-learn" />
     <img src="https://img.shields.io/badge/jupyter-orange?logo=jupyter"/>
