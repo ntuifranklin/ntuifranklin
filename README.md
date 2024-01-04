@@ -27,5 +27,6 @@ Previously I was an AI/ML software engineer for <a href='https://www.ers.io/'>En
 - Subscribe to my [Medium Newsletter](https://medium.com/@ntuifranklin2005/subscribe)
 - A List of my [ articles on medium ](https://medium.com/@ntuifranklin2005/)
 
-## Currently AI/ML Software Engineer @Enterprise_Refactoring_Services_LLC  (www.ers.io).
-Previously Student Software Engineer @DIT(Department of Information Technology University of Maryland college Park). Book lover and author.
+## Cybersecurity Software Engineer @Lericemau_Tech_LLC (https://lericemautech.com/)
+Previously AI/ML Software Engineer @Enterprise_Refactoring_Services_LLC  (www.ers.io).
+Prior Student Software Engineer @DIT(Department of Information Technology University of Maryland college Park). Book lover and author.
