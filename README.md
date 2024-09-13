@@ -27,6 +27,6 @@ Previously I was an AI/ML software engineer for <a href='https://www.ers.io/'>En
 - Subscribe to my [Medium Newsletter](https://medium.com/@ntuifranklin2005/subscribe)
 - A List of my [ articles on medium ](https://medium.com/@ntuifranklin2005/)
 
-## Cybersecurity Software Engineer @Lericemau_Tech_LLC (https://lericemautech.com/)
-Previously AI/ML Software Engineer @Enterprise_Refactoring_Services_LLC  (www.ers.io), and Software Engineer at @Cotonou_Direct_Shipping_International_LLC(https://cotonoudirectinter.com/)
+## Cybersecurity Software Engineer @Lericemau_Tech_LLC (lericemautech.com)
+Previously AI/ML Software Engineer @Enterprise_Refactoring_Services_LLC  (www.ers.io), and Software Engineer at @Cotonou_Direct_Shipping_International_LLC(cotonoudirectinter.com)
 Prior Student Software Engineer @DIT(Department of Information Technology University of Maryland college Park). Book lover and author.
