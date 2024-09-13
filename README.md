@@ -6,8 +6,8 @@
 
 </div>
 
-I am currently a Cybersecurity Software Engineer for <a href='https://lericemautech.com/'>Lericemau Tech LLC</a>. We build cryptographic solutions for our clients using several cutting edge cyber security techniques ad algorithms, to protect and secure very delicate assets.
-Previously I was an AI/ML software engineer for <a href='https://www.ers.io/'>Enterprise Refactoring Services</a> who enjoys builidng robust technology solutions using the following chocolate 🍫 bars:
+I am currently a Cybersecurity Software Engineer for <a href='https://lericemautech.com/'>Lericemau Tech LLC</a>. We build cryptographic solutions for our clients using several cutting edge cyber security techniques and algorithms, to protect and secure very delicate assets.
+Previously I was an AI/ML software engineer for <a href='https://www.ers.io/'>Enterprise Refactoring Services</a> where I enjoyed builidng robust technology solutions using the following technologies:
  <p float="left">
     <img src="https://img.shields.io/badge/sklearn-orange?logo=scikit-learn" />
     <img src="https://img.shields.io/badge/jupyter-orange?logo=jupyter"/>
@@ -28,5 +28,5 @@ Previously I was an AI/ML software engineer for <a href='https://www.ers.io/'>En
 - A List of my [ articles on medium ](https://medium.com/@ntuifranklin2005/)
 
 ## Cybersecurity Software Engineer @Lericemau_Tech_LLC (https://lericemautech.com/)
-Previously AI/ML Software Engineer @Enterprise_Refactoring_Services_LLC  (www.ers.io).
+Previously AI/ML Software Engineer @Enterprise_Refactoring_Services_LLC  (www.ers.io), and Software Engineer at @Cotonou_Direct_Shipping_International_LLC(https://cotonoudirectinter.com/)
 Prior Student Software Engineer @DIT(Department of Information Technology University of Maryland college Park). Book lover and author.
